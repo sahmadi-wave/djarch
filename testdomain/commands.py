@@ -1,0 +1,1 @@
+# this file would be similar in structure to any other layer component
